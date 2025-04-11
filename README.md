@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notjustdesigner&label=Profile%20views&color=0e75b6&style=flat" alt="notjustdesigner" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notjustdesigner" alt="notjustdesigner" /></a> </p>
-
 - 🔭 I’m currently working on **Interactive Game UI in rive**
 
 - 🌱 I’m currently learning **React native**
@@ -22,6 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.behance.net/yugandharpatil3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readmegenerator/master/src/images/icons/Social/behance.svg" 
+   alt="yugandharpatil3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
