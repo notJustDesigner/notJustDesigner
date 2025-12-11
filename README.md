@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yugandhar Patil</h1>
-<h3 align="center">A passionate UI/UX Designer and frontend developer from India</h3>
+<h3 align="center">A passionate UI/UX Designer and MERN Stack developer from India</h3>
 <img align="right" alt="Developing" width="400" src="https://lottie.host/e174ce0b-99e3-459d-bef5-191b94fd8d87/g5vWGFiRH9.json" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notjustdesigner&label=Profile%20views&color=0e75b6&style=flat" alt="notjustdesigner" /> </p>
